@@ -33,3 +33,13 @@ The system focuses on concurrency correctness, inter-process communication, and 
 
 ```bash
 make
+```
+
+## run:
+```bash
+./producer
+```
+
+```bash
+./consumer
+```
